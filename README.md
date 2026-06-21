@@ -1,4 +1,4 @@
-# Project 2 — Student Profile Score Calculator
+Student Profile Score Calculator
 
 A multi-step form that calculates how competitive your academic profile is for studying abroad. Scores your GPA, IELTS, financial proof, and experience out of 100 with live updates.
 
